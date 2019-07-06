@@ -1,6 +1,6 @@
-車車小助手 > Privacy Policy
+車車小精靈 > Privacy Policy
 
-非常歡迎您光臨「車車小助手」（以下簡稱本app），為了讓您能夠安心的使用本網站的各項服務與資訊，特此向您說明本app的隱私權保護政策，以保障您的權益，請您詳閱下列內容：
+非常歡迎您光臨「車車小精靈」（以下簡稱本app），為了讓您能夠安心的使用本網站的各項服務與資訊，特此向您說明本app的隱私權保護政策，以保障您的權益，請您詳閱下列內容：
 一、隱私權保護政策的適用範圍
 隱私權保護政策內容，包括本網站如何處理在您使用app服務時收集到的個人識別資料。隱私權保護政策不適用於本app以外的相關連結網站，也不適用於非本app所委託或參與管理的人員。
 二、個人資料的蒐集、處理及利用方式
@@ -27,10 +27,10 @@
 七、隱私權保護政策之修正
 本app隱私權保護政策將因應需求隨時進行修正，修正後的條款將刊登於網站上。
 ----------------------------------------------------------------------
-kevin chiu built the 車車小助手 app as a Free app. This SERVICE is provided by kevin chiu at no cost and is intended for use as is.
+kevin chiu built the 車車小精靈 app as a Free app. This SERVICE is provided by kevin chiu at no cost and is intended for use as is.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at 車車小助手 unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at 車車小精靈 unless otherwise defined in this Privacy Policy.
 Information Collection and Use
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 The app does use third party services that may collect information used to identify you.
